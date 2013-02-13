@@ -1,0 +1,16 @@
+/*
+Theme Name: Jewelry store
+Theme URI: http://www.luisramos.cl/
+Description: Template hecho por freddy para una tienda online.
+Author: Luis Ramos Illanes
+Author URI: http://www.luisRamos.cl/
+Version: 1.0
+Tags: Jewelry, Store, Tienda
+
+*/
+@import url('css/reset.css');
+@import url('css/general.css');
+@import url('css/font.css');
+@import url('css/bootstrap.css');
+@import url('css/bootstrap-responsive.css');
+
